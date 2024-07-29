@@ -1,11 +1,9 @@
-/*primary color*/
 .bg-cream {
     background-color: #FFF2E1;
 }
 
-/*font*/
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'General Sans', sans-serif;
 }
 
 .bg-yellow-500 {
