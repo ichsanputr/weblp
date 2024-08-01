@@ -3,7 +3,11 @@
 }
 
 body {
-    font-family: 'General Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    margin-bottom: 2rem;
 }
 
 .bg-yellow-500 {
