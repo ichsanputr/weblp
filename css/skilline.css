@@ -242,6 +242,11 @@ body {
     top: 4px;
 }
 
+p, li {
+    color: #1A3636;
+    font-size: 16px;
+}
+
 .order .truck .light.bottom {
     bottom: 4px;
 }
@@ -484,3 +489,9 @@ p {
 .text-darken {
     color: #2F327D;
 }
+
+@media only screen and (max-width: 600px) {
+    p, li {
+      font-size: 14px;
+    }
+  }
