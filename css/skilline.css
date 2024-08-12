@@ -19,6 +19,11 @@ body {
     --sand-light: #edd9a9;
 }
 
+.myfooter {
+    background-color: #FFF2E1;
+    width: 100%;
+}
+
 .order {
     appearance: none;
     border: 0;
