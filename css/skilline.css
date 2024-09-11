@@ -1,7 +1,3 @@
-.bg-cream {
-    background-color: #FFF2E1;
-}
-
 body {
     font-family: 'Poppins', sans-serif;
 }
@@ -17,6 +13,30 @@ body {
     --green: #16bf78;
     --sand: #dcb773;
     --sand-light: #edd9a9;
+}
+
+.kol {
+    background-color: #F49111;
+    border-radius: 0  0  12px 12px;
+    color: white;
+}
+
+.nj {
+    box-shadow: none;
+}
+
+.bg-cream {
+    background-color: #FFF2E1;
+}
+
+.bx-wrapper {
+    border-radius: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px !important;
+    padding: 0 !important;
+}
+
+.kl {
+    z-index: 99991;
 }
 
 .myfooter {
@@ -498,5 +518,9 @@ p {
 @media only screen and (max-width: 600px) {
     p, li {
       font-size: 14px;
+    }
+
+    .nj {
+        box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
     }
   }
