@@ -21,6 +21,12 @@ body {
     color: white;
 }
 
+.ujk {
+    width: 100%;
+    height: 480px;
+    border-radius: 12px;
+}
+
 .nj {
     box-shadow: none;
 }
@@ -518,6 +524,12 @@ p {
 @media only screen and (max-width: 600px) {
     p, li {
       font-size: 14px;
+    }
+
+    .ujk {
+        width: 100%;
+        height: 480px;
+        border-radius: 12px;
     }
 
     .nj {
